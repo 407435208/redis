@@ -9,4 +9,4 @@ Redis 命令参考
 .. warning::
 
     本文档的地址已经发生了变化，
-    请访问 http://RedisDoc.com 来阅读最新的文档。
+    请访问 `RedisDoc.com <http://RedisDoc.com>`_ 阅读最新的文档。
